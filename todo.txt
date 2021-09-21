@@ -1,0 +1,2 @@
+style
+404 === gameover
